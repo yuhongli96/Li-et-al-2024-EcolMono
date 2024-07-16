@@ -1,0 +1,76 @@
+"spcode6","sci_name","plantfgroup","site_id","annual_rainfall_mm","layer_abundance","nitrogen_per","phosphorus_per","potassium_per","calcium_per","magnesium_per","sodium_per"
+"sol inc","Solanum incanum","forb","1",681,27,2.42,0.334,3.139,0.382,0.18,0.01
+"chl pyc","Chloris pycnothrix","grass","1",681,18,2.45,0.438,2.175,0.375,0.185,0.038
+"dig aby","Digitaria abyssinica","grass","1",681,18,2.18,0.535,3.004,0.36,0.223,0.027
+"cyn dac","Cynodon dactylon","grass","1",681,17,2.01,0.453,1.9,0.498,0.197,0.066
+"leu urt","Leucas urticifolia ","forb","1",681,17,2.58,0.641,5.109,0.905,0.363,0.06
+"spo fim","Sporobolus fimbriatus","grass","1",681,9,1.47,0.663,2.233,0.334,0.125,0.018
+"dig mac","Digitaria macroblephara","grass","2",742,44,1.69,0.702,3.186,0.411,0.286,0.011
+"har sch","Harpachne schimperi","grass","2",742,22,1.49,0.527,1.457,0.276,0.144,0.008
+"eus pas","Eustachys paspaloides","grass","2",742,18,1.35,0.65,2.471,0.338,0.139,0.011
+"spo sta","Sporobolus stapfianus","grass","2",742,10,1.35,0.327,1.813,0.26,0.181,0.009
+"her uhl","Hermannia uhligii","forb","2",742,9,1.85,0.289,1.944,0.861,0.387,0.043
+"oci kil","Ocimum kilimandscharicum","forb","2",742,7,2.85,0.498,4.294,1.087,0.37,0.008
+"meg max","Megathyrsus maximus","grass","2",742,6,1.73,0.441,2.824,0.435,0.275,0.01
+"ind vol","Indigofera volkensii","forb","2",742,2,2.48,0.173,1.819,6.45,0.65,0.006
+"cyn dac","Cynodon dactylon","grass","3",797,22,2.01,0.302,2.315,0.426,0.182,0.017
+"jus sp1","Justicia species1","forb","3",797,18,2.81,0.415,3.856,3.828,0.975,0.022
+"uro sem","Urochloa semiundulata","grass","3",797,16,2.03,0.48,1.879,0.436,0.304,0.026
+"ari pil","Aristida pilgeri","grass","3",797,15,1.33,0.214,1.094,0.236,0.099,0.008
+"bot ins","Bothriochloa insculpta","grass","3",797,14,1.91,0.301,1.999,0.333,0.105,0.021
+"har sch","Harpachne schimperi","grass","3",797,13,1.65,0.418,1.51,0.39,0.15,0.028
+"cen mez","Cenchrus mezianus","grass","3",797,10,1.82,0.41,3.956,0.354,0.174,0.028
+"dig aby","Digitaria abyssinica","grass","3",797,9,2.3,0.646,3.178,0.416,0.22,0.029
+"cen mez","Cenchrus mezianus","grass","4",797,48,1.54,0.553,2.992,0.317,0.194,0.5
+"pan col","Panicum coloratum","grass","4",797,36,2.32,0.713,2.157,0.221,0.267,0.94
+"bot ins","Bothriochloa insculpta","grass","4",797,29,1.89,0.389,1.75,0.34,0.172,0.017
+"the tri","Themeda triandra","grass","4",797,28,1.62,0.319,1.398,0.257,0.174,0.064
+"jus ans","Justicia anselliana","forb","4",797,15,2.54,0.282,3.291,3.4,1.99,1.776
+"dig mac","Digitaria macroblephara","grass","5",805,42,1.87,0.396,3.797,0.364,0.237,0.026
+"ind vol","Indigofera volkensii","forb","5",805,29,2.14,0.163,1.531,7.173,0.87,0.006
+"har sch","Harpachne schimperi","grass","5",805,24,1.66,0.513,1.517,0.265,0.146,0.009
+"tet rox","Tetrapogon roxburghiana","grass","5",805,22,1.66,0.448,2.866,0.33,0.167,0.023
+"sol inc","Solanum incanum","forb","5",805,1,1.83,0.376,1.951,1.82,0.475,0.01
+"the tri","Themeda triandra","grass","6",857,58,1.51,0.172,1.063,0.343,0.15,0.016
+"har sch","Harpachne schimperi","grass","6",857,27,1.66,0.38,1.638,0.234,0.116,0.009
+"meg max","Megathyrsus maximus","grass","6",857,24,2.21,0.25,3.242,0.347,0.317,0.018
+"mac axi","Macrotyloma axillare","forb","6",857,22,2.83,0.266,2.305,0.85,0.391,0.01
+"ari pil","Aristida pilgeri","grass","6",857,2,1.16,0.207,0.91,0.165,0.103,0.012
+"dig mac","Digitaria macroblephara","grass","7",898,34,1.7,0.201,2.512,0.449,0.248,0.01
+"het con","Heteropogon contortus","grass","7",898,30,1.37,0.146,1.276,0.384,0.132,0.031
+"eus pas","Eustachys paspaloides","grass","7",898,22,1.57,0.25,2.178,0.358,0.149,0.009
+"the tri","Themeda triandra","grass","7",898,21,1.4,0.13,1.102,0.329,0.122,0.008
+"cmm sp","Commelina","forb","7",898,18,2.14,0.205,3.284,1.914,0.344,0.02
+"rhy sp1",NA,"forb","7",898,18,2.46,0.181,2.434,0.492,0.26,0.029
+"for 027","for 027","forb","7",898,16,2.66,0.353,2.957,1.714,0.331,0.008
+"cyn sp","Cynodon","grass","7",898,15,1.45,0.3,1.563,0.45,0.151,0.007
+"cha mim","Chamaecrista mimosoides","forb","7",898,14,2.97,0.175,1.151,0.672,0.191,0.019
+"uro dic","Urochloa dictyoneura","grass","7",898,14,1.37,0.278,2.124,0.164,0.246,0.038
+"ort par","Orthosiphon parvifolius","forb","7",898,12,2.48,0.353,3.349,2.757,0.429,0.006
+"emi coc","Emilia coccinea","forb","7",898,10,3,0.389,6.4,2.084,0.407,0.016
+"ble aca","Blepharis acanthodioides","forb","7",898,8,1.98,0.221,3.675,0.761,0.324,0.005
+"hyp fil","Hyparrhenia filipendula","grass","7",898,8,1.49,0.138,1.323,0.337,0.159,0.016
+"hib sp","Hibiscus sp","forb","7",898,5,2.02,0.335,1.332,0.854,0.4,0.039
+"dig aby","Digitaria abyssinica","grass","7",898,2,1.62,0.32,2.836,0.263,0.163,0.009
+"the tri","Themeda triandra","grass","8",949,80,1.36,0.163,1.518,0.258,0.163,0.011
+"spo afr","Sporobolus africanus","grass","8",949,25,1.22,0.174,1.402,0.328,0.079,0.027
+"uro sp","Urochloa species","grass","8",949,22,1.35,0.238,2.005,0.285,0.303,0.09
+"chl gay","Chloris gayana","grass","8",949,17,1.55,0.198,1.591,0.509,0.371,0.009
+"jus mat","Justicia matammensis","forb","8",949,16,2.53,0.222,4.799,3.319,2.197,0.009
+"cyn sp","Cynodon","grass","8",949,14,1.7,0.172,1.399,0.525,0.254,0.014
+"spo pyr","Sporobolus pyramidalis","grass","8",949,10,1.25,0.176,1.771,0.34,0.111,0.018
+"cen mez","Cenchrus mezianus","grass","8",949,8,1.28,0.227,3.019,0.398,0.276,0.033
+"sol inc","Solanum incanum","forb","8",949,1,2.02,0.289,2.652,0.61,0.367,0.015
+"the tri","Themeda triandra","grass","9",999,72,1.68,0.212,1.13,0.39,0.195,0.009
+"spo pel","Sporobolus pellucidus","grass","9",999,37,1.44,0.191,1.667,0.239,0.136,0.009
+"het con","Heteropogon contortus","grass","9",999,32,1.39,0.105,1.016,0.354,0.176,0.011
+"bot ins","Bothriochloa insculpta","grass","9",999,28,1.83,0.139,1.475,0.367,0.19,0.009
+"cym cae","Cymbopogon caesius","grass","9",999,28,2.28,0.174,1.204,0.542,0.162,0.006
+"har sch","Harpachne schimperi","grass","9",999,14,1.57,0.216,1.203,0.3,0.144,0.012
+"meg max","Megathyrsus maximus","grass","9",999,11,2.14,0.289,2.881,0.311,0.284,0.013
+"lou aru","Loudetia arundinacea","grass","9",999,10,1.21,0.185,1.443,0.17,0.165,0.006
+"era cil","Eragrostis cilianensis","grass","9",999,7,1.67,0.23,1.747,0.329,0.141,0.015
+"ind vol","Indigofera volkensii","forb","9",999,7,2.48,0.153,1.308,6.048,0.907,0.008
+"dig aby","Digitaria abyssinica","grass","9",999,6,2.13,0.298,2.974,0.29,0.23,0.01
+"dig mac","Digitaria macroblephara","grass","9",999,6,1.75,0.237,2.883,0.353,0.332,0.009
+"ari pil","Aristida pilgeri","grass","9",999,4,1.29,0.173,1.045,0.177,0.131,0.01
